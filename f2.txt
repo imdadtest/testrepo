@@ -1,0 +1,4 @@
+This is f2.txt file
+Writing for testing purpose..
+
+Thanks
