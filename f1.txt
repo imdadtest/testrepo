@@ -1,3 +1,0 @@
-Hello Git,
-This is first practice file
-Thanks
